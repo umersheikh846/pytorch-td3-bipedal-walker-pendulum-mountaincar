@@ -12,3 +12,12 @@ Pytorch implementation of TD3 agent to solve the OpenAI gym problems. Since TD3 
 -   PyVirtualDisplay
 
 ## Results
+### Bipedal Walker
+https://user-images.githubusercontent.com/48405587/210181567-87cda4bf-be26-4724-b3c4-30ffd0a3eb39.mp4
+
+### Inverse Pendulum
+https://user-images.githubusercontent.com/48405587/210181579-42575ba6-af7a-4f29-864b-400c9a378d28.mp4
+
+### MountainCarContinous
+https://user-images.githubusercontent.com/48405587/210181596-7a36802b-3f3e-48f2-b136-de6772781f8f.mp4
+
