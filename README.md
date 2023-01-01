@@ -1,1 +1,1 @@
-# pytorch-td3-bipedal-walker-pendulum-mountaincar
+# pytorch-TD3-Bipedal-Walker-Pendulum-MountainCarContinuous
